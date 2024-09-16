@@ -51,9 +51,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     <h3><strong class="approve">Congratulations!</strong>  You've advanced to the Semifinals of DAC 2024!</strong></h3>
                     <p>Please contact one of our committee in 1x24 hour to confirm your participation in DAC 2024 semifinal.<br><br>
                     <strong>Raihan Abiyyu Briantama</strong><br>
-                    WA: <a href="https://wa.me/6282116132950">0821 1613 2950</a><br>
+                    WhatsApp: <a href="https://wa.me/6282116132950">0821 1613 2950</a><br>
                     <strong>Gilang Hanif Hendrawan</strong><br>
-                    WA: <a href="https://wa.me/6288803505896">0888 0350 5896</a>
+                    WhatsApp: <a href="https://wa.me/6288803505896">0888 0350 5896</a>
                     </p>
                     <p><em>See you soon in Surabaya</em> ^-^</p>
                 `;
