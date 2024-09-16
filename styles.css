@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background {
+    background: 
+        url('images/bgpattern.png') repeat,
+        linear-gradient(150deg, #02062F, #261A76);
+    background-size: 500px 500px, cover;
+    background-position: center, center;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 3;
+    height: 100px;
+    padding: 0 20px;
+}
+
+.header-img {
+    width: 12%;
+    margin-left: 20px;
+}
+
+.header-logo {
+    width: 20%;
+    margin-right: 20px;
+}
+
+.main-content {
+    flex: 1;
+    z-index: 4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    position: relative;
+    top: -70px;
+}
+
+.announcement-section {
+    max-width: 50%;
+    text-align: left;
+    color: white;
+    position: relative;
+    z-index: 5;
+}
+
+.title {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.input-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center the form contents */
+    position: relative;
+    z-index: 6;
+}
+
+.input-field {
+    width: 70%; /* Reduce width of input field */
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    text-align: center;
+}
+
+.submit-button {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    padding: 10px 50px;
+    border-radius: 30px;
+    background-color: #f3d127;
+    color: #02062F;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+    width: auto;
+    text-align: center;
+}
+
+.submit-button:hover {
+    background-color: #f3d127;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 3;
+    flex-shrink: 0;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer img {
+    max-width: 100%;
+    height: auto;
+}
+
+.team-name {
+    font-family: "Lilita One", sans-serif;
+    font-size: 50px;
+    color: #742f52;
+    -webkit-text-stroke: 1px #f8bdda;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.approve {
+    color: rgb(164, 236, 164);
+}
+
+.reject {
+    color: rgb(252, 177, 177);
+}
+
+.waiting {
+    color: rgb(249, 254, 145);
+}
+
+
+/* Responsive for Mobile Devices */
+@media only screen and (max-width: 767px) {
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* Prevent horizontal scrolling */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%; /* Ensure it takes the full viewport height */
+        box-sizing: border-box;
+        font-size: 12px;
+    }
+
+    .header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        margin-top: 5px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .header-img {
+        width: 25%;
+        margin-left: 0;
+    }
+
+    .header-logo {
+        width: 50%;
+        margin-left: 0;
+    }
+
+    .main-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        margin: 0 auto;
+        width: 100%;
+        box-sizing: border-box;
+        height: auto;
+        min-height: calc(100vh - 60px); /* Adjust height to fit within the screen */
+        top: -150px;
+    }
+
+    .announcement-section {
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .title {
+        font-size: 24px;
+        -webkit-text-stroke: 0.5px white;
+        margin-bottom: 10px;
+    }
+
+    .subtitle {
+        font-size: 28px;
+        -webkit-text-stroke: 0.5px #f8bdda;
+        margin-bottom: 20px;
+    }
+
+    .input-label {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .input-field {
+        padding: 8px;
+        font-size: 16px;
+        margin-bottom: 15px;
+        border-radius: 15px;
+        width: 90%;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    .submit-button {
+        font-size: 18px;
+        padding: 10px 20px;
+        border-radius: 20px;
+        margin-bottom: 20px;
+    }
+
+    .team-name {
+        font-size: 24px;
+        margin: 10px 0;
+    }
+
+    .footer {
+        padding: 0;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        background-color: transparent;
+    }
+
+    .footer img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
