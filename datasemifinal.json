@@ -551,7 +551,7 @@
     },
     {
         "NoPeserta": "0040",
-        "NamaTim": "TeamDache",
+        "NamaTim": "Dache",
         "Keterangan": "Tidak"
     },
     {
@@ -657,6 +657,606 @@
     {
         "NoPeserta": "0186",
         "NamaTim": "Cygnus",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0003",
+        "NamaTim": "Mojo",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0004",
+        "NamaTim": "Chisq Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0006",
+        "NamaTim": "Tahu Tek Bang Ali",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0007",
+        "NamaTim": "MBAS",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0008",
+        "NamaTim": "2ka",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0009",
+        "NamaTim": "ARABIC TEAM",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0010",
+        "NamaTim": "Duo Neural",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0012",
+        "NamaTim": "Neural not-work",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0013",
+        "NamaTim": "Flow",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0015",
+        "NamaTim": "Zenith",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0017",
+        "NamaTim": "Nihil",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0021",
+        "NamaTim": "DataBeans",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0022",
+        "NamaTim": "Redfly",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0026",
+        "NamaTim": "IPK EMP4T",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0029",
+        "NamaTim": "Rex Aeternus",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0030",
+        "NamaTim": "Duo berkah",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0034",
+        "NamaTim": "8th Anomaly",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0037",
+        "NamaTim": "Num.py",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0038",
+        "NamaTim": "Py.team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0041",
+        "NamaTim": "MAESTRO",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0042",
+        "NamaTim": "Bismillah Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0044",
+        "NamaTim": "Nekadtin",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0046",
+        "NamaTim": "JaPan",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0049",
+        "NamaTim": "BOOM",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0051",
+        "NamaTim": "Rawrr!!",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0052",
+        "NamaTim": "THE UNIQUE",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0054",
+        "NamaTim": "Kalyna",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0055",
+        "NamaTim": "Kaizen",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0056",
+        "NamaTim": "BUBADIBAKO",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0057",
+        "NamaTim": "Ayok",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0058",
+        "NamaTim": "Saida Seno",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0059",
+        "NamaTim": "ZUMA",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0060",
+        "NamaTim": "ENVOY",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0061",
+        "NamaTim": "FIRMER",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0063",
+        "NamaTim": "Odette",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0065",
+        "NamaTim": "Union of Reason",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0068",
+        "NamaTim": "Catchy Data",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0072",
+        "NamaTim": "Theomikeljuara",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0073",
+        "NamaTim": "Data Divers",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0074",
+        "NamaTim": "DOA IBU",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0084",
+        "NamaTim": "Kiseki No Sedai",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0085",
+        "NamaTim": "Data Stranger",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0086",
+        "NamaTim": "Victorious",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0092",
+        "NamaTim": "TIM HORE",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0095",
+        "NamaTim": "Dio&Aris",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0097",
+        "NamaTim": "Sistem Hitam",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0099",
+        "NamaTim": "KUYAWINKUYI",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0101",
+        "NamaTim": "NiCe Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0103",
+        "NamaTim": "Analytics Avangers",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0104",
+        "NamaTim": "DaTasik",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0108",
+        "NamaTim": "Goldielock",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0113",
+        "NamaTim": "Paper Rex",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0116",
+        "NamaTim": "Cobaajadlu",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0117",
+        "NamaTim": "The Visioner",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0118",
+        "NamaTim": "Mangkok Ayam",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0119",
+        "NamaTim": "SANS",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0125",
+        "NamaTim": "Loopy Rangers",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0127",
+        "NamaTim": "Wantan mie",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0128",
+        "NamaTim": "Puntelelelel",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0130",
+        "NamaTim": "Alfa Romeo",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0131",
+        "NamaTim": "ApaKataKakGem",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0133",
+        "NamaTim": "Bismillah Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0134",
+        "NamaTim": "Tim",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0136",
+        "NamaTim": "Jaya Gacor",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0137",
+        "NamaTim": "Bismillah menang",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0139",
+        "NamaTim": "Wong Tulus",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0140",
+        "NamaTim": "BCC Encoder",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0146",
+        "NamaTim": "Ciplaz",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0148",
+        "NamaTim": "Arunika",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0149",
+        "NamaTim": "A Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0151",
+        "NamaTim": "UNESA WELL",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0155",
+        "NamaTim": "Orion",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0158",
+        "NamaTim": "Masih Belajar Bang",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0160",
+        "NamaTim": "Bidata Cina",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0161",
+        "NamaTim": "Beda Jurusan",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0163",
+        "NamaTim": "SuccessRate100%",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0168",
+        "NamaTim": "KLTI",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0170",
+        "NamaTim": "Doa bapak dan ibu itu penting dan sholat terlebih dahulu lalu berangkat kuliah",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0171",
+        "NamaTim": "Newcomers",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0176",
+        "NamaTim": "YANIF'S BOY",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0179",
+        "NamaTim": "Up-skilling gen 2",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0180",
+        "NamaTim": "Dynamics",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0181",
+        "NamaTim": "Wi-vi",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0183",
+        "NamaTim": "Triple V",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0194",
+        "NamaTim": "CatsAndDogs",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0195",
+        "NamaTim": "Speedrun",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0196",
+        "NamaTim": "Doa Mama",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0198",
+        "NamaTim": "Shidqi",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0205",
+        "NamaTim": "FirstTrial",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0207",
+        "NamaTim": "Clarity",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0208",
+        "NamaTim": "Import winner as we",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0209",
+        "NamaTim": "DuoSpama",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0211",
+        "NamaTim": "Dodoco",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0212",
+        "NamaTim": "Isi ntar aja",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0213",
+        "NamaTim": "Pramana abhaya",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0214",
+        "NamaTim": "Duke Dennis",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0215",
+        "NamaTim": "Noorzahrah Cintya Ningrum",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0217",
+        "NamaTim": "Reeushtics",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0219",
+        "NamaTim": "Era",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0221",
+        "NamaTim": "Stat Wizards",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0223",
+        "NamaTim": "FaDik Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0226",
+        "NamaTim": "Alsy Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0227",
+        "NamaTim": "2 fast nama tim ini liejei",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0229",
+        "NamaTim": "Hamba berserah diri",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0230",
+        "NamaTim": "Tim superman",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0232",
+        "NamaTim": "Belang Telon",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0233",
+        "NamaTim": "Conan",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0234",
+        "NamaTim": "Boboiboy",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0237",
+        "NamaTim": "Gak tau, gak kepikiran sumpah",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0240",
+        "NamaTim": "Unagi",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0242",
+        "NamaTim": "Ntah Sunrise Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0244",
+        "NamaTim": "Sistem Gahar",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0245",
+        "NamaTim": "Aci Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0248",
+        "NamaTim": "Ashirogi Muto",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0252",
+        "NamaTim": "Spaghetti",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0255",
+        "NamaTim": "WaSaKa Team",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0258",
+        "NamaTim": "TIYANG AGOMO",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0259",
+        "NamaTim": "Big Bos",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0261",
+        "NamaTim": "Dua Generasi",
+        "Keterangan": "Tidak"
+    },
+    {
+        "NoPeserta": "0264",
+        "NamaTim": "Bubududu",
         "Keterangan": "Tidak"
     }
 ]
